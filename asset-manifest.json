@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/qd-client/static/css/main.61647d43.css",
+    "main.js": "/qd-client/static/js/main.0f97d93e.js",
+    "static/css/813.346c31d6.chunk.css": "/qd-client/static/css/813.346c31d6.chunk.css",
+    "static/js/813.58b956c5.chunk.js": "/qd-client/static/js/813.58b956c5.chunk.js",
+    "static/css/831.e3056f57.chunk.css": "/qd-client/static/css/831.e3056f57.chunk.css",
+    "static/js/831.17233d31.chunk.js": "/qd-client/static/js/831.17233d31.chunk.js",
+    "static/css/19.aa8d6308.chunk.css": "/qd-client/static/css/19.aa8d6308.chunk.css",
+    "static/js/19.9f392d50.chunk.js": "/qd-client/static/js/19.9f392d50.chunk.js",
+    "static/css/711.81facdfa.chunk.css": "/qd-client/static/css/711.81facdfa.chunk.css",
+    "static/js/711.c32e1697.chunk.js": "/qd-client/static/js/711.c32e1697.chunk.js",
+    "static/css/645.eff3e4ff.chunk.css": "/qd-client/static/css/645.eff3e4ff.chunk.css",
+    "static/js/645.681c24a0.chunk.js": "/qd-client/static/js/645.681c24a0.chunk.js",
+    "static/js/233.40a05820.chunk.js": "/qd-client/static/js/233.40a05820.chunk.js",
+    "static/css/365.a5989f84.chunk.css": "/qd-client/static/css/365.a5989f84.chunk.css",
+    "static/js/365.13fbe6dd.chunk.js": "/qd-client/static/js/365.13fbe6dd.chunk.js",
+    "static/js/243.4b586910.chunk.js": "/qd-client/static/js/243.4b586910.chunk.js",
+    "index.html": "/qd-client/index.html",
+    "main.61647d43.css.map": "/qd-client/static/css/main.61647d43.css.map",
+    "main.0f97d93e.js.map": "/qd-client/static/js/main.0f97d93e.js.map",
+    "813.346c31d6.chunk.css.map": "/qd-client/static/css/813.346c31d6.chunk.css.map",
+    "813.58b956c5.chunk.js.map": "/qd-client/static/js/813.58b956c5.chunk.js.map",
+    "831.e3056f57.chunk.css.map": "/qd-client/static/css/831.e3056f57.chunk.css.map",
+    "831.17233d31.chunk.js.map": "/qd-client/static/js/831.17233d31.chunk.js.map",
+    "19.aa8d6308.chunk.css.map": "/qd-client/static/css/19.aa8d6308.chunk.css.map",
+    "19.9f392d50.chunk.js.map": "/qd-client/static/js/19.9f392d50.chunk.js.map",
+    "711.81facdfa.chunk.css.map": "/qd-client/static/css/711.81facdfa.chunk.css.map",
+    "711.c32e1697.chunk.js.map": "/qd-client/static/js/711.c32e1697.chunk.js.map",
+    "645.eff3e4ff.chunk.css.map": "/qd-client/static/css/645.eff3e4ff.chunk.css.map",
+    "645.681c24a0.chunk.js.map": "/qd-client/static/js/645.681c24a0.chunk.js.map",
+    "233.40a05820.chunk.js.map": "/qd-client/static/js/233.40a05820.chunk.js.map",
+    "365.a5989f84.chunk.css.map": "/qd-client/static/css/365.a5989f84.chunk.css.map",
+    "365.13fbe6dd.chunk.js.map": "/qd-client/static/js/365.13fbe6dd.chunk.js.map",
+    "243.4b586910.chunk.js.map": "/qd-client/static/js/243.4b586910.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61647d43.css",
+    "static/js/main.0f97d93e.js"
+  ]
+}
